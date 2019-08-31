@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world from script"
+echo "hello ${test} from script"
